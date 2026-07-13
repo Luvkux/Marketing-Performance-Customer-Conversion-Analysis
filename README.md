@@ -58,8 +58,3 @@ The analysis identified key customer behavior and conversion patterns, contribut
 
 Data-driven insights also helped improve customer review scores from **3.7 to 4.0**.
 
-## Author
-
-**Lavkush Verma**
-
-IIT Delhi Graduate | Data Analytics | AI/ML
